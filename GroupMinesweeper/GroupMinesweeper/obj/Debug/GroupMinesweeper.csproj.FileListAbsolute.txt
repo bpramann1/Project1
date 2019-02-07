@@ -1,0 +1,9 @@
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\bin\Debug\GroupMinesweeper.exe.config
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\bin\Debug\GroupMinesweeper.exe
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\bin\Debug\GroupMinesweeper.pdb
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.Properties.Resources.resources
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.exe
+C:\Users\Brandon\source\repos\GroupMinesweeper\GroupMinesweeper\obj\Debug\GroupMinesweeper.pdb
